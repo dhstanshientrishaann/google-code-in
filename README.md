@@ -1,2 +1,0 @@
-# google-code-in
-cool.
